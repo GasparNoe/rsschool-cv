@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool-cv
+https://gasparnoe.github.io/rsschool-cv/cv
