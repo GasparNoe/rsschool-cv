@@ -10,3 +10,6 @@
 * react
 * node.js
 
+### My Languages
+* Russian
+* English
